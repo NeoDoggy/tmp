@@ -1,0 +1,13 @@
+{
+  "name": "hehe",
+  "piyan": "large",
+  "parameters": {},
+  "variables": {},
+  "resources": [],
+  "outputs": {
+    "greetingMessage": {
+      "value": "Hello World",
+      "type": "string"
+    }
+  }
+}
